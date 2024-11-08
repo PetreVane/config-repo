@@ -1,2 +1,2 @@
 catalog-service:
-	welcome-message: "This is the Childrens Universe Catalog Service with a message available only in the PROD env. Welcome!"
+  welcome-message: "This is the Childrens Universe Catalog Service with a message available only in the PROD env. Welcome!"
